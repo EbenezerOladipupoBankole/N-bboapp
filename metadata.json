@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Níbbo Super-App",
+  "description": "A hyper-local super-app for logistics, shopping, and errands in Abeokuta, Nigeria, connecting customers, riders, and vendors.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
